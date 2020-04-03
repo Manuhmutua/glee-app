@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "517500165978",
+    "firebase_url": "https://glee-92f53.firebaseio.com",
+    "project_id": "glee-92f53",
+    "storage_bucket": "glee-92f53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517500165978:android:22beddecd85c89ccd99d63",
+        "android_client_info": {
+          "package_name": "com.manuh.glee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517500165978-3gacqs53f8qgi3v372ks9ij0op29v7vc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.manuh.glee",
+            "certificate_hash": "316165522106ed3480f8ff36b926989f146d7099"
+          }
+        },
+        {
+          "client_id": "517500165978-lem0br44shijcjabghi8qnhlresa3qvk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjT0XQUvynejmp52_tR0pfdAFvYqLuhqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "517500165978-lem0br44shijcjabghi8qnhlresa3qvk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

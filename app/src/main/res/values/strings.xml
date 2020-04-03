@@ -1,8 +1,25 @@
 <resources>
     <string name="app_name">Glee</string>
 
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="connect_with_phone_number">Connect with Phone number</string>
     <string name="example_quote">“Most people are about as happy as they make up their minds to be.” —Abraham Lincoln</string>
+
+    <string name="hint_verification_code">Verification Code</string>
+    <string name="status_code_sent">Code Sent</string>
+    <string name="status_verification_failed">Verification failed</string>
+    <string name="status_verification_succeeded">Verification succeeded</string>
+    <string name="status_sign_in_failed">Sign-in failed</string>
+    <string name="instant_validation">(instant validation)</string>
+    <string name="phone_number">phone Number</string>
+    <string name="what_is_your_phone_number">What is your phone number?</string>
+    <string name="verify_phone_number">Verify phone number</string>
+    <string name="verification_code">Verification Code</string>
+    <string name="verify">Verify</string>
+    <string name="resend_code">resend code</string>
+    <string name="please_verify_your_phone_number_to_continue">Please verify your phone number to continue.</string>
+    <string name="please_enter_verification_code_to_continue">Please enter verification code to continue.</string>
+    <string name="didn_t_receive_sms">Didn\'t receive SMS?</string>
+    <string name="set_up_account">Set up account</string>
+    <string name="please_enter_your_name_and_upload_photo">Please enter your name and upload photo</string>
+    <string name="username">Username</string>
 </resources>
